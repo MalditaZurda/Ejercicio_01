@@ -1,0 +1,15 @@
+C:\Users\agusl\Desktop\OpenBoot\Ejercicios\Ejercicio_01\bin\Debug\net6.0\Ejercicio_01.exe
+C:\Users\agusl\Desktop\OpenBoot\Ejercicios\Ejercicio_01\bin\Debug\net6.0\Ejercicio_01.deps.json
+C:\Users\agusl\Desktop\OpenBoot\Ejercicios\Ejercicio_01\bin\Debug\net6.0\Ejercicio_01.runtimeconfig.json
+C:\Users\agusl\Desktop\OpenBoot\Ejercicios\Ejercicio_01\bin\Debug\net6.0\Ejercicio_01.dll
+C:\Users\agusl\Desktop\OpenBoot\Ejercicios\Ejercicio_01\bin\Debug\net6.0\Ejercicio_01.pdb
+C:\Users\agusl\Desktop\OpenBoot\Ejercicios\Ejercicio_01\obj\Debug\net6.0\Ejercicio_01.csproj.AssemblyReference.cache
+C:\Users\agusl\Desktop\OpenBoot\Ejercicios\Ejercicio_01\obj\Debug\net6.0\Ejercicio_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agusl\Desktop\OpenBoot\Ejercicios\Ejercicio_01\obj\Debug\net6.0\Ejercicio_01.AssemblyInfoInputs.cache
+C:\Users\agusl\Desktop\OpenBoot\Ejercicios\Ejercicio_01\obj\Debug\net6.0\Ejercicio_01.AssemblyInfo.cs
+C:\Users\agusl\Desktop\OpenBoot\Ejercicios\Ejercicio_01\obj\Debug\net6.0\Ejercicio_01.csproj.CoreCompileInputs.cache
+C:\Users\agusl\Desktop\OpenBoot\Ejercicios\Ejercicio_01\obj\Debug\net6.0\Ejercicio_01.dll
+C:\Users\agusl\Desktop\OpenBoot\Ejercicios\Ejercicio_01\obj\Debug\net6.0\refint\Ejercicio_01.dll
+C:\Users\agusl\Desktop\OpenBoot\Ejercicios\Ejercicio_01\obj\Debug\net6.0\Ejercicio_01.pdb
+C:\Users\agusl\Desktop\OpenBoot\Ejercicios\Ejercicio_01\obj\Debug\net6.0\Ejercicio_01.genruntimeconfig.cache
+C:\Users\agusl\Desktop\OpenBoot\Ejercicios\Ejercicio_01\obj\Debug\net6.0\ref\Ejercicio_01.dll
